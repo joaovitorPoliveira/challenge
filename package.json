@@ -1,0 +1,22 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "google-libphonenumber": "^3.2.27",
+    "libphonenumber": "^0.0.10",
+    "libphonenumber-js": "^1.9.50",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
